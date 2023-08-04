@@ -2,7 +2,7 @@
 
 # Cloth try-on with style transfer
 
-Thiso project proposes a virtual try-on network with style synthesis. It generates realistic images of a user wearing clothes with specific styles and textures. The network responds to the growing need for virtual try-ons due to the increasing online fashion retail and the constraints it presents. It aims to tackle the challenge of producing high-quality images without relying heavily on human parsers and expensive hardware for 3D data collection.
+Thiso project proposes a virtual try-on network with style synthesis. It generates realistic images of a user wearing clothes with specific styles and textures. The network responds to the growing need for virtual try-ons due to the increasing online fashion retail and the constraints it presents.
 
 ## Introduction
 
